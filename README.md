@@ -20,11 +20,16 @@ I provide services for project development including:
 
 - Smart Contracts - Coding/Testing/Deploying/Integrations
 - Web3.0 dApp - FrontEnd / Smart Contract / Testing / Peer Reviews
-- Consultation and Guidance around different aspects of Blockchain
+- Consultation and Guidance around different aspects of Blockchain 
+</p>
+
+<p align="center">
 
 
+## <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=40%>
+</p>
 
-<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=40%></p>
+
 
 ---
 

@@ -7,7 +7,7 @@
 
 ---
 
-## <p align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 10%> <br>About me </p>
+### <p align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 10%> <br>About me </p>
 
 
 
@@ -26,7 +26,7 @@ I provide services for project development including:
 <p align="center">
 
 
-## <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=40%>
+### <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=40%>
 </p>
 
 
@@ -36,7 +36,7 @@ I provide services for project development including:
 
 
 
-## <p align="center">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=10%><br> Tech Stack</p>
+### <p align="center">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=10%><br> Tech Stack</p>
 
 
 <p align="center"> 
@@ -119,14 +119,14 @@ I provide services for project development including:
 - Html / CSS / SCSS / Tailwind
 </p>
 
-## <p align="center"><img src="https://github.com/par-ash/par-ash/blob/main/Images/tech.gif?raw=true" width="25%"></p>
+### <p align="center"><img src="https://github.com/par-ash/par-ash/blob/main/Images/tech.gif?raw=true" width="25%"></p>
   
 
 <br> 
 
 ---
 
-## <p align="center"><img src="https://github.com/par-ash/par-ash/blob/main/Images/connect.gif?raw=true" width="25%"></p>
+### <p align="center"><img src="https://github.com/par-ash/par-ash/blob/main/Images/connect.gif?raw=true" width="25%"></p>
 
 
 <br>

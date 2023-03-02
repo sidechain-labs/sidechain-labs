@@ -31,7 +31,7 @@ I provide services for project development including:
 
 
 
-##<p align="center">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=10%> Tech Stack</p>
+## <p align="center">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=10%> Tech Stack</p>
 
 
 <p align="center"> 

@@ -7,13 +7,13 @@
 
 ---
 
-## <p align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me 
+## <p align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 10%> <br>About me </p>
 
 
 
+<p>
 
-
- Experienced Blockchain Engineer with 3 years of writing smart contracts, deploying dApps, building Frontend and integrations, project consultations etc contributions.
+Experienced Blockchain Engineer with 3 years of writing smart contracts, deploying dApps, building Frontend and integrations, project consultations etc contributions.
 
 I provide services for project development including:
 
@@ -36,7 +36,7 @@ I provide services for project development including:
 
 
 
-## <p align="center">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=10%> Tech Stack</p>
+## <p align="center">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=10%><br> Tech Stack</p>
 
 
 <p align="center"> 
@@ -54,11 +54,9 @@ I provide services for project development including:
     <img alt="OpenZeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white">
   </a> 
 <a target="_blank"> 
-    <img alt="OpenZeppelin" src="https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black"> 
+    <img alt="Binance" src="https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black"> 
   </a> 
-  <a target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"> 
-  </a> 
+ 
   <a target="_blank"> 
     <img alt="Coinbase" src="https://img.shields.io/badge/Coinbase-0052FF.svg?style=for-the-badge&logo=Coinbase&logoColor=white"> 
   </a> 
@@ -121,12 +119,14 @@ I provide services for project development including:
 - Html / CSS / SCSS / Tailwind
 </p>
 
+## <p align="center"><img src="https://github.com/par-ash/par-ash/blob/main/Images/tech.gif?raw=true" width="25%"></p>
   
 
 <br> 
 
 ---
-## <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="25%"> Connect</p>
+
+## <p align="center"><img src="https://github.com/par-ash/par-ash/blob/main/Images/connect.gif?raw=true" width="25%"></p>
 
 
 <br>
@@ -156,6 +156,8 @@ I provide services for project development including:
   </a>
   <a href=""><img img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>
   </a>
+  <a href=""><img img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="StackOverflow"/>
+  </a>
  </p>
 	
 
@@ -165,7 +167,7 @@ I provide services for project development including:
 ---
 </br>
 	
-#### Btw, 🐍 A Snake Eating my Contributions Graph
+#### Btw, A Snake 🐍 ate my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>

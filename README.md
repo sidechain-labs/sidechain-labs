@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Ashish Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Welcome to Sidechain Labs<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Blockchain+Developer;Tech+Enthusiast;Football+Fan;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Smart+Contracts+Development;Blockchain+Developement;Blockchain+Consulting;Crypto+Token+Development;DAO+Development;NFT+Marketplace;NFT+Games"></a>
 </p>
 
 
@@ -13,14 +13,41 @@
 
 <p>
 
-Experienced Blockchain Engineer with 3 years of writing smart contracts, deploying dApps, building Frontend and integrations, project consultations etc contributions.
+Sidechain Labs is a leading blockchain and web3 development firm that specializes in delivering high-quality development services to clients across the globe. Our team of experienced developers has a deep understanding of blockchain technology and its potential applications, enabling us to create custom solutions that meet the unique needs of our clients.
 
-I provide services for project development including:
+We offer a wide range of web3 development services, including smart contract development, decentralized application (dApp) development, non-fungible token (NFT) development, and blockchain integration. We are passionate about leveraging the power of blockchain technology to drive innovation and help our clients achieve their business goals.
 
+At Sidechain Labs, we prioritize security and quality, and we follow industry best practices to ensure that our solutions are robust, scalable, and reliable. We work closely with our clients to understand their needs and provide them with tailored solutions that meet their specific requirements. Whether you are looking to build a blockchain-based solution from scratch or integrate blockchain technology into your existing systems, Sidechain Labs has the expertise and experience to deliver innovative and effective solutions that drive business success.
 
-- Smart Contracts - Coding/Testing/Deploying/Integrations
-- Web3.0 dApp - FrontEnd / Smart Contract / Testing / Peer Reviews
-- Consultation and Guidance around different aspects of Blockchain 
+	
+SERVICES OFFERED:
+	
+1. Crypto Token Development
+	Utility Token
+	Reward Token
+	Equity Token
+	Security Token
+	Currency Token
+	Non-Fungible Token
+2. Blockchain Consulting
+3. Blockchain Development
+	Decentralized Application (Dapps)
+	Decentralized Finance (DeFi)
+	Blockchain Supply Chain Development
+4. Smart Contracts Development
+5. Cryptocurrency Exchange
+	Centralized Exchange (CEX)
+	Decentralized Exchange (DEX)
+6. DAO Development
+	DAO Creation
+	DAO Treasury Solutions
+	DAO Management
+7. NFT Games
+8. NFT Marketplace Development
+9. Blockchain Wallet Development
+	Wallet Integrations
+	Wallet Creation
+	
 </p>
 
 <p align="center">
@@ -131,7 +158,7 @@ I provide services for project development including:
 
 <br>
 <p align="center">
-	<a href=""><img img src="https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
+	<a href="https://www.upwork.com/o/companies/~01c3aae34d039e4434/"><img img src="https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
   </a>
   <a href=""><img img src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white" alt="Fiverr"/>
   </a>
@@ -141,7 +168,7 @@ I provide services for project development including:
 <br>
 
   <p align="center">
-	<a href=""><img img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+	<a href="https://twitter.com/sidechainlabs"><img img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   	<a href=""><img img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
   </a>
@@ -151,10 +178,10 @@ I provide services for project development including:
 <br>
   <p align="center">
   
-  <a href="">
+  <a href="mailto:parash.pkl@gmail.com">
     <img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href=""><img img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>
+  <a href="https://github.com/sidechain-labs"><img img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>
   </a>
   <a href=""><img img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="StackOverflow"/>
   </a>

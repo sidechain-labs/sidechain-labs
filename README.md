@@ -22,30 +22,30 @@ At Sidechain Labs, we prioritize security and quality, and we follow industry be
 	
 SERVICES OFFERED:
 	
-1. Crypto Token Development
-	Utility Token
-	Reward Token
-	Equity Token
-	Security Token
-	Currency Token
+1. Crypto Token Development - 
+	Utility Token,
+	Reward Token,
+	Equity Token,
+	Security Token,
+	Currency Token,
 	Non-Fungible Token
 2. Blockchain Consulting
-3. Blockchain Development
-	Decentralized Application (Dapps)
-	Decentralized Finance (DeFi)
+3. Blockchain Development - 
+	Decentralized Application (Dapps), 
+	Decentralized Finance (DeFi), 
 	Blockchain Supply Chain Development
 4. Smart Contracts Development
-5. Cryptocurrency Exchange
-	Centralized Exchange (CEX)
+5. Cryptocurrency Exchange - 
+	Centralized Exchange (CEX), 
 	Decentralized Exchange (DEX)
-6. DAO Development
-	DAO Creation
-	DAO Treasury Solutions
+6. DAO Development - 
+	DAO Creation, 
+	DAO Treasury Solutions, 
 	DAO Management
 7. NFT Games
 8. NFT Marketplace Development
-9. Blockchain Wallet Development
-	Wallet Integrations
+9. Blockchain Wallet Development - 
+	Wallet Integrations, 
 	Wallet Creation
 	
 </p>
